@@ -10,3 +10,27 @@ The Animal Facial Action Coding System is an observational scientific tool, allo
 By studying FACS you can learn how to identify specific and subtle muscle movements in the face, allowing for the study of facial communication without subjection categorising whole-expressions.
 
 Each FACS coding scheme has been adapted from the original human-based FACS system, allowing researchers to directly compare muscle-movements between humans and animals, and between animals of different species. 
+
+# The 8 AnimalFACS systems
+
+At present, the FACS system has been adapted to 8 different species. All of which have manuals that are freely accessible. 
+
+#### ChimpFACS : A FACS system adapted for use with common chimpanzees (pan troglodytes)
+#### MaqFACS : A FACS system adapted for use with rhesus macaques (macaca mulatta)
+#### GibbonFACS : A FACS system adapted for use with hylobatid species
+#### OrangFACS : A FACS system adapted for use with Orangutans (pongo spp.)
+#### DogFACS : A FACS system adapted for use with domestic dog (Canis lupis familiaris)
+#### CatFACS : A FACS system adapted for use with cats (Felis catus)
+#### EquiFACS : A FACS system adapted for use with domestic horses (Equus ferus caballus)
+#### CalliFACS : A FACS system adapted for use with marmoset species
+
+
+# How it works?
+
+### 1 Access and study the manuals. 
+Visit the page of the FACS system you wish to learn, follow the instructions to gain access to the manual.
+### 2 Take the test. 
+Each FACS system has an accompanied test, allowing individuals to become recognised FACS coders. In the test, your coding will be compared to other certified FACS coders to ensure you are using the system reliably. This is free of charge.
+### 3 Apply FACS to your work. 
+Once certified, you are then free to apply FACS in your research, or profession, to objectively quantify the facial movements of your subject animals. 
+
