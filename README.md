@@ -15,10 +15,10 @@ Each FACS coding scheme has been adapted from the original human-based FACS syst
 
 At present, the FACS system has been adapted to 8 different species. All of which have manuals that are freely accessible. 
 
-#### ChimpFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/ChimpFACS/README.md) : A FACS system adapted for use with common chimpanzees (pan troglodytes)
-#### MaqFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/MaqFACS/README.md) : A FACS system adapted for use with rhesus macaques (macaca mulatta)
-#### GibbonFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/GibbonFACS/README.md) : A FACS system adapted for use with hylobatid species
-#### OrangFACS : A FACS system adapted for use with Orangutans (pongo spp.)
+#### ChimpFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/ChimpFACS.md) : A FACS system adapted for use with common chimpanzees (pan troglodytes)
+#### MaqFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/MaqFACS.md) : A FACS system adapted for use with rhesus macaques (macaca mulatta)
+#### GibbonFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/GibbonFACS.md) : A FACS system adapted for use with hylobatid species
+#### OrangFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/OrangFACS.md) : A FACS system adapted for use with Orangutans (pongo spp.)
 #### DogFACS : A FACS system adapted for use with domestic dog (Canis lupis familiaris)
 #### CatFACS : A FACS system adapted for use with cats (Felis catus)
 #### EquiFACS : A FACS system adapted for use with domestic horses (Equus ferus caballus)
