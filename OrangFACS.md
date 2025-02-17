@@ -9,7 +9,8 @@ The Orangutan Facial Action Coding System (OrangFACS) is a scientific observatio
 
 More info regarding the development of this FACS system can be found here:
 
-Caeiro, C. C., Waller, B. M., Zimmermann, E., Burrows, A. M., & Davila-Ross, M. (2013). OrangFACS: A muscle-based facial movement coding system for orangutans (Pongo spp.). International Journal of Primatology, 34(1), 115-129.
+[_Caeiro, C. C., Waller, B. M., Zimmermann, E., Burrows, A. M., & Davila-Ross, M. (2013). OrangFACS: A muscle-based facial movement coding system for orangutans (Pongo spp.). International Journal of Primatology, 34(1), 115-129._](https://link.springer.com/article/10.1007/s10764-012-9652-x)
+
 ### What MaqFACS isn't:
 MaqFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you macaque facial expressions
 
