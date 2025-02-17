@@ -21,7 +21,7 @@ The associated training videos can be accessed here.
 [Training/Example Videos](https://drive.google.com/drive/folders/1t3JzFGIAd-fTOmwvlN5EKgVyShqpNF0O?usp=drive_link)
 
 ## Accessing the test
-To become a certified ChimpFACS coder, we encourage you to take the associated test. The ChimpFACS test involves trainees to accurately code the facial movements in a series of video clips. The test (and associated training
+To become a certified ChimpFACS coder, we encourage you to take the associated test. The ChimpFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
 The test can be accessed here: [ChimpFACS Test materials](https://drive.google.com/drive/folders/119xFNBKiNswmNucE0fL-EcI2blc8gvN5?usp=drive_link)
 
