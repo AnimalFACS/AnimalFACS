@@ -15,10 +15,10 @@ ChimpFACS is not an ethogram of facial expressions, and does not make any infere
 
 ### Accessing the manual
 The ChimpFACS Manual is freely available via the link below
-[ChimpFACS Manual](https://github.com/jamiewhitehouse/AnimalFACS/blob/ChimpFACS/ChimpFACS_Manual.pdf)
+[ChimpFACS Manual](https://drive.google.com/file/d/1hqfT1xXDIJcwaYMAvpqArXZEd6kWadrA/view?usp=drive_link)
 
 The associated training videos can be accessed here.
-[Training/Example Videos](https://github.com/jamiewhitehouse/AnimalFACS/blob/ChimpFACS/ExampleClips_ChimpFACS.zip)
+[Training/Example Videos](https://drive.google.com/drive/folders/1t3JzFGIAd-fTOmwvlN5EKgVyShqpNF0O?usp=drive_link)
 
 ## Accessing the test
 To become a certified ChimpFACS coder, we encourage you to take the associated test. The ChimpFACS test involves trainees to accurately code the facial movements in a series of video clips. The test (and associated training
