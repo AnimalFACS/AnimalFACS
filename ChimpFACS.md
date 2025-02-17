@@ -23,11 +23,11 @@ The associated training videos can be accessed here.
 ## Accessing the test
 To become a certified ChimpFACS coder, we encourage you to take the associated test. The ChimpFACS test involves trainees to accurately code the facial movements in a series of video clips. The test (and associated training
 
-The test can be accessed here: 
+The test can be accessed here: [ChimpFACS Test materials](https://drive.google.com/drive/folders/119xFNBKiNswmNucE0fL-EcI2blc8gvN5?usp=drive_link)
 
 Once completed. Return the completed test of animalfacsuk@gmail.com, along with 1) Your name 2) Your intitution and 3) Your reason for persuing ChimpFACS certification. 
 
-### The people behind it
+## The people behind it
 
 ChimpFACS was developed with the support of The Leverhulme Trust. Research Interchange Grant (F/00678/E) “Chimpanzee emotions: Development of a Chimpanzee Facial Action Coding System” was awarded to Kim A. Bard (University of Portsmouth)
 
