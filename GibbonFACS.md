@@ -22,7 +22,7 @@ The associated training videos can be accessed here.
 [Training/Example Videos](https://drive.google.com/drive/folders/1aoKyuufbF9mMwXHIFH3AQI0jjHSpD5AT?usp=drive_link)
 
 ## Accessing the test
-To become a certified GibbonFACS coder, we encourage you to take the associated test. The GibbonFACS test involves trainees to accurately code the facial movements in a series of video clips. The test (and associated training
+To become a certified GibbonFACS coder, we encourage you to take the associated test. The GibbonFACS test involves trainees to accurately code the facial movements in a series of video clips
 
 The test can be accessed here: [GibbonFACS Test materials](https://drive.google.com/drive/folders/1kl7nmuTNW9TM3t5erJjHlWdW3Da1VvJ3?usp=drive_link)
 
