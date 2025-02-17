@@ -25,7 +25,10 @@ To become a certified ChimpFACS coder, we encourage you to take the associated t
 
 The test can be accessed here: [ChimpFACS Test materials](https://drive.google.com/drive/folders/119xFNBKiNswmNucE0fL-EcI2blc8gvN5?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 1) Your name 2) Your intitution and 3) Your reason for persuing ChimpFACS certification. 
+Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
+1) Your name
+2) Your intitution
+3) Your reason for persuing ChimpFACS certification. 
 
 ## The people behind it
 
