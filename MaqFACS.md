@@ -26,7 +26,10 @@ To become a certified MaqFACS coder, we encourage you to take the associated tes
 
 The test can be accessed here: [MaqFACS Test materials](https://drive.google.com/drive/folders/1ajfZamJL9T8qDiT50RI-FC-hoFUu04LI?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 1) Your name 2) Your intitution and 3) Your reason for persuing MaqFACS certification. 
+Once completed. Return the completed test of animalfacsuk@gmail.com, along with 
+1) Your name
+2) Your intitution
+3) Your reason for persuing MaqFACS certification. 
 
 ## The people behind it
 
