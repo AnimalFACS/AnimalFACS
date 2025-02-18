@@ -8,7 +8,7 @@ The Cat Facial Action Coding System (CatFACS) is a scientific observational tool
 
 More info regarding the development of this FACS system can be found here:
 
-[_Caeiro, Cátia C., Anne M. Burrows, and Bridget M. Waller. "Development and application of CatFACS: Are human cat adopters influenced by cat facial expressions?." Applied Animal Behaviour Science 189 (2017): 66-78._](Caeiro, Cátia C., Anne M. Burrows, and Bridget M. Waller. "Development and application of CatFACS: Are human cat adopters influenced by cat facial expressions?." Applied Animal Behaviour Science 189 (2017): 66-78.)
+[_Caeiro, Cátia C., Anne M. Burrows, and Bridget M. Waller. "Development and application of CatFACS: Are human cat adopters influenced by cat facial expressions?." Applied Animal Behaviour Science 189 (2017): 66-78._](https://www.sciencedirect.com/science/article/pii/S0168159117300102?via%3Dihub)
 
 ### What CatFACS isn't:
 CatFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you Cat facial expressions
