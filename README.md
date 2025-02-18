@@ -30,7 +30,7 @@ At present, the FACS system has been adapted to 8 different species. All of whic
 ### 1 Access and study the manuals. 
 Visit the page of the FACS system you wish to learn, follow the instructions to gain access to the manual.
 ### 2 Take the test. 
-Each FACS system has an accompanied test, allowing individuals to become recognised FACS coders. In the test, your coding will be compared to other certified FACS coders to ensure you are using the system reliably. This is free of charge.
+Each FACS system has an accompanied test, allowing individuals to become recognised FACS coders. In the test, your coding will be compared to other certified FACS coders to ensure you are using the system reliably. This is free of charge. Instructions for the tests will appear in the accompanying worksheet.
 ### 3 Apply FACS to your work. 
 Once certified, you are then free to apply FACS in your research, or profession, to objectively quantify the facial movements of your subject animals. 
 
