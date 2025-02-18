@@ -37,7 +37,7 @@ EquiFACS was developed thanks to the joint effort of:
 **Jennifer Wathan,** University of Sussex
 **Bridget M. Waller,** Department of Psychology, Nottingham Trent University. 
 **Anne M. Burrows,** Department of Physical Therapy, Duquesne University
-**Karen McComb, **University of Sussex
+**Karen McComb,** University of Sussex
 
 
 
