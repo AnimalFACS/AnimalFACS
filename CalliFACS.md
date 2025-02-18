@@ -3,8 +3,8 @@ A repository to access CalliFACS information and documentation
 
 ![CalliFACS](https://github.com/user-attachments/assets/303fe7fc-cdd3-4750-a2a2-6880374b944b)
 
-### What CatFACS is:
-The Marmoset Facial Action Coding System (CatFACS) is a scientific observational tool for identifying and coding facial movements in common marmosets (Callithrix jacchus). The system is based on the facial anatomy of common marmosets and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The CalliFACS manual details how to use the system and code the facial movements of common marmosets objectively. The manual and certification is freely available (see below). 
+### What CalliFACS is:
+The Marmoset Facial Action Coding System (CalliFACS) is a scientific observational tool for identifying and coding facial movements in common marmosets (_Callithrix jacchus_). The system is based on the facial anatomy of common marmosets and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The CalliFACS manual details how to use the system and code the facial movements of common marmosets objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
 
