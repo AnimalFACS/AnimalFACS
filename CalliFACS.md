@@ -37,7 +37,7 @@ CalliFACS was developed thanks to the effort of:
 
 **Duncan Andrew Wilson,** Primate Research Institute, Kyoto University, Inuyama, Japan
 
-**Abdelhady Abdelrahman,**School of Health and Life Sciences, Glasgow Caledonian University, Glasgow, United Kingdom
+**Abdelhady Abdelrahman** School of Health and Life Sciences, Glasgow Caledonian University, Glasgow, United Kingdom
 
 **Takako Miyabe-Nishiwak,** Primate Research Institute, Kyoto University, Inuyama, Japan
 
