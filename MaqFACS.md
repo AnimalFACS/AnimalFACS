@@ -26,7 +26,7 @@ To become a certified MaqFACS coder, we encourage you to take the associated tes
 
 The test materials can be accessed here: [MaqFACS Test materials](https://drive.google.com/drive/folders/1ajfZamJL9T8qDiT50RI-FC-hoFUu04LI?usp=drive_link)
 
-PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION.
+PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
 [Complete test here](https://docs.google.com/forms/d/e/1FAIpQLSehwjwDvabbHwYwbSnuI0_uV7VQnf5h6lVu7yaObaf3vN4Cwg/viewform?usp=dialog)
 
