@@ -25,10 +25,9 @@ To become a certified EquiFACS coder, we encourage you to take the associated te
 
 The test can be accessed here: [EquiFACS Test materials](https://drive.google.com/drive/folders/13lDyZBJ-m-ZNOolb5KDUWeMKi5FrIoNf?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
-1) Your name
-2) Your intitution
-3) Your reason for persuing EquiFACS certification. 
+PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
+
+[Complete test here](https://forms.gle/urPVha95SDf92vPy7)
 
 ## The people behind it
 
