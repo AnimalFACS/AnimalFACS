@@ -23,7 +23,7 @@ The associated training videos can be accessed here.
 ## Accessing the test
 To become a certified EquiFACS coder, we encourage you to take the associated test. The EquiFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: [EquiFACS Test materials](https://drive.google.com/drive/folders/13lDyZBJ-m-ZNOolb5KDUWeMKi5FrIoNf?usp=drive_link)
+The test can be accessed here: [EquiFACS Test materials](https://drive.google.com/drive/folders/1fg-Aw1f0TDJijQShUlkerI-EmeQoursf?usp=drive_link)
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
