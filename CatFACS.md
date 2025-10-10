@@ -23,12 +23,9 @@ The associated training videos can be accessed here.
 ## Accessing the test
 To become a certified CatFACS coder, we encourage you to take the associated test. The CatFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: [CatFACS Test materials](https://drive.google.com/drive/folders/1SL33mk3I3etG4hvt0gLydHTaCkvUyRo8?usp=drive_link)
+PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
-1) Your name
-2) Your intitution
-3) Your reason for persuing CatFACS certification. 
+[Click here to begin certification test](https://docs.google.com/forms/d/e/1FAIpQLSd6P9casRbndpWLDb1JKmTGuaMHnF8um1qfM-nNQaLjBrhkOw/viewform?usp=dialog)
 
 ## The people behind it
 
