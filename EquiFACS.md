@@ -27,7 +27,7 @@ The test can be accessed here: [EquiFACS Test materials](https://drive.google.co
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
-[Complete test here](https://forms.gle/urPVha95SDf92vPy7)
+[Click here to begin certification test](https://forms.gle/urPVha95SDf92vPy7)
 
 ## The people behind it
 
