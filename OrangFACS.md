@@ -26,10 +26,9 @@ To become a certified OrangFACS coder, we encourage you to take the associated t
 
 The test can be accessed here: [OrangFACS Test materials](https://drive.google.com/drive/folders/1C3i_wLeylxyo1s6BbTn2eEWglau6cetT?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 
-1) Your name
-2) Your intitution
-3) Your reason for persuing OrangFACS certification. 
+PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
+
+[Click here to begin certification test](https://forms.gle/sp1qh31kDwUuWQtj8)
 
 ## The people behind it
 
