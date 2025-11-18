@@ -16,7 +16,7 @@ GibbonFACS is not an ethogram of facial expressions, and does not make any infer
 
 ### Accessing the manual
 The GibbonFACS Manual is freely available via the link below
-[GibbonFACS Manual])https://drive.google.com/file/d/1ReHhN4ljke5y88RVC3tqHytCbi86SMz6/view?usp=drive_link)
+[GibbonFACS Manual](https://drive.google.com/file/d/1ReHhN4ljke5y88RVC3tqHytCbi86SMz6/view?usp=drive_link)
 
 The associated training videos can be accessed here.
 [Training/Example Videos](https://drive.google.com/drive/folders/1aoKyuufbF9mMwXHIFH3AQI0jjHSpD5AT?usp=drive_link)
@@ -24,12 +24,11 @@ The associated training videos can be accessed here.
 ## Accessing the test
 To become a certified GibbonFACS coder, we encourage you to take the associated test. The GibbonFACS test involves trainees to accurately code the facial movements in a series of video clips
 
-The test can be accessed here: [GibbonFACS Test materials](https://drive.google.com/drive/folders/1kl7nmuTNW9TM3t5erJjHlWdW3Da1VvJ3?usp=drive_link)
+The test can be accessed here: [GibbonFACS Test materials](https://drive.google.com/drive/folders/1SylyuObLjlcvTckCxUvHCzqBIW520wNh?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 
-1) Your name
-2) Your intitution
-3) Your reason for persuing GibbonFACS certification. 
+PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
+
+[Click here to begin certification test](https://forms.gle/SrgpLHehvM9wGFst6)
 
 ## The people behind it
 
