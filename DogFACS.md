@@ -14,6 +14,9 @@ More info regarding the development of this FACS system can be found here:
 ### What DogFACS isn't:
 DogFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you dog facial expressions
 
+### Useage of materials
+Please note, you are not permitted to use any videos provided with the FACS manuals, or test, without written permitted from the owners. Please contact animalfacsuk@gmail.com if you wish to request permissions to use any materials. 
+
 ### Accessing the manual
 The DogFACS Manual is freely available via the link below
 [DogFACS Manual](https://drive.google.com/drive/folders/1y8PJdxIIskmb9rOVW6B_LC1TWgF922iY?usp=drive_link)
