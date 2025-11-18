@@ -13,6 +13,9 @@ More info regarding the development of this FACS system can be found here:
 ### What CatFACS isn't:
 CatFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you Cat facial expressions
 
+### Useage of materials
+Please note, you are not permitted to use any videos provided with the FACS manuals, or test, without written permitted from the owners. Please contact animalfacsuk@gmail.com if you wish to request permissions to use any materials. 
+
 ### Accessing the manual
 The CatFACS Manual is freely available via the link below
 [CatFACS Manual](https://drive.google.com/drive/folders/1uO0DXexVg9V62TC3fGBvHkqz84J5lEc1?usp=drive_link)
