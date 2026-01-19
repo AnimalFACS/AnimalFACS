@@ -3,7 +3,7 @@ A repository to access EquiFACS information and documentation
 
 ![EquiFACS](https://github.com/user-attachments/assets/c4ec5e66-4eeb-4f24-b10f-0b943a20215b)
 
-### What CatFACS is:
+### What EquiFACS is:
 The Horse Facial Action Coding System (EquiFACS) is a scientific observational tool for identifying and coding facial movements in horses. The system is based on the facial anatomy of horses and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The EquiFACS manual details how to use the system and code the facial movements of horses objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
