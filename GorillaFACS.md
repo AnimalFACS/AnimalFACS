@@ -4,7 +4,7 @@ A repository to access GorillaFACS information and documentation
 ![GorillaFACS](https://github.com/user-attachments/assets/a7b60c2a-88a0-498a-a718-477a3d1866e0)
 
 ### What GorillaFACS is:
-The Gorilla Facial Action Coding System (GorillaFACS) is a scientific observational tool for identifying and coding facial movements in Gorillas (_Gorilla sp._). The system is based on the facial anatomy of gorillas and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The CalliFACS manual details how to use the system and code the facial movements of gorillas objectively. The manual and certification is freely available (see below). 
+The Gorilla Facial Action Coding System (GorillaFACS) is a scientific observational tool for identifying and coding facial movements in Gorillas (_Gorilla sp._). The system is based on the facial anatomy of gorillas and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The GorillaFACS manual details how to use the system and code the facial movements of gorillas objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
 
