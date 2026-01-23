@@ -13,7 +13,8 @@ Each FACS coding scheme has been adapted from the original human-based FACS syst
 
 # The 9 AnimalFACS systems
 
-<img width="1828" height="300" alt="animalfacs copy" src="https://github.com/user-attachments/assets/3c8b2441-06f1-480b-aa63-8be28254cfcc" />
+![animalfacs_small](https://github.com/user-attachments/assets/8a43cdec-6e52-4d2a-9ecb-7de4d2db1132)
+
 
 At present, the FACS system has been adapted to 9 different species. All of which have manuals that are freely accessible. 
 
