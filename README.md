@@ -1,5 +1,5 @@
 # AnimalFACS
-A repository to access AnimalFACS information and documentation
+A repository to access AnimalFACS information and documentation for ChimpFACS, MaqFACS, GibbonFACS, OrangFACS, DogFACS, CatFACS, EquiFACS, CalliFACS and GorillaFACS 
 
 ![Logo](https://github.com/user-attachments/assets/5a22b62d-674d-462c-aafb-0eb4a4ce0ce7)
 
