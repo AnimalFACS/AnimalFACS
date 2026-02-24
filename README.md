@@ -19,7 +19,7 @@ At present, the FACS system has been adapted to 9 different species. All of whic
 #### MaqFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/MaqFACS) : A FACS system adapted for use with rhesus macaques _(Macaca mulatta)_
 #### GibbonFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/GibbonFACS) : A FACS system adapted for use with hylobatid species
 #### OrangFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/OrangFACS) : A FACS system adapted for use with Orangutans _(pongo spp.)_
-#### DogFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/DogFACS) : A FACS system adapted for use with domestic dog _(Canis lupis familiaris)_
+#### DogFACS [(Access here)](https://animalfacs.github.io/DogFACS/) : A FACS system adapted for use with domestic dog _(Canis lupis familiaris)_
 #### CatFACS [(Access here)](https://animalfacs.github.io/CatFACS/) : A FACS system adapted for use with cats _(Felis catus)_
 #### EquiFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/EquiFACS) : A FACS system adapted for use with domestic horses _(Equus ferus caballus)_
 #### CalliFACS [(Access here)](https://animalfacs.github.io/AnimalFACS/CalliFACS) : A FACS system adapted for use with marmoset species
