@@ -33,6 +33,8 @@ PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION
 
 [Click here to begin certification test](https://docs.google.com/forms/d/e/1FAIpQLScdYFQPL673CWxhSZTNgHlIsp95YW_wiOwgsLRf-EurpLnymw/viewform?usp=dialog)
 
+[Click here to begin reduced certification test (this version does not include Head and Eye movements)](https://docs.google.com/forms/d/e/1FAIpQLScxxSvxsMoOBgyA_OcxjPVn6A9cG2YW2813cVJJVl_nvEXCqQ/viewform?usp=header)
+
 ## The people behind it
 
 DogFACS was developed thanks to the joint effort of:
