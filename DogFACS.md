@@ -31,9 +31,9 @@ The test can be accessed here: [DogFACS Test materials](https://drive.google.com
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
-[Click here to begin certification test](https://docs.google.com/forms/d/e/1FAIpQLScdYFQPL673CWxhSZTNgHlIsp95YW_wiOwgsLRf-EurpLnymw/viewform?usp=dialog)
+[Click here to begin certification test][https://docs.google.com/forms/d/e/1FAIpQLScxxSvxsMoOBgyA_OcxjPVn6A9cG2YW2813cVJJVl_nvEXCqQ/viewform?usp=header]
 
-[Click here to begin reduced certification test (this version does not include Head and Eye movements)](https://docs.google.com/forms/d/e/1FAIpQLScxxSvxsMoOBgyA_OcxjPVn6A9cG2YW2813cVJJVl_nvEXCqQ/viewform?usp=header)
+[Click here to begin advanced certification test (this version includes Head and Eye movements)][https://docs.google.com/forms/d/e/1FAIpQLScdYFQPL673CWxhSZTNgHlIsp95YW_wiOwgsLRf-EurpLnymw/viewform?usp=header]
 
 ## The people behind it
 
