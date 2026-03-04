@@ -25,7 +25,7 @@ The associated training videos can be accessed here.
 [Training/Example Videos](https://drive.google.com/drive/folders/1GJ8a81ARV18dCcgstHcdEUxEmyaiPk_m?usp=drive_link)
 
 ## Accessing the test
-To become a certified DogFACS coder, we encourage you to take the associated test. The DogFACS test involves trainees to accurately code the facial movements in a series of video clips. There are currently two versions of the test; the advanced version includes head and eye movements AD51, AD52, AD53, AD54, AD55, AD56, AD61, AD62, AD63 and AD64.
+To become a certified DogFACS coder, we encourage you to take the associated test. The DogFACS test involves trainees to accurately code the facial movements in a series of video clips. **There are currently two versions of the test; the advanced version includes head and eye movements AD51, AD52, AD53, AD54, AD55, AD56, AD61, AD62, AD63 and AD64.**
 
 The test can be accessed here: [DogFACS Test materials](https://drive.google.com/drive/folders/1sgKfRdqpqzEj59gS1qyrsRvbZfVoI8Ri?usp=sharing)
 
